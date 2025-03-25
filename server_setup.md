@@ -314,12 +314,13 @@ Last update: - \
 Last checked: - \
 Still works: **NOT SURE**
 
-> [!NOTE] Note
+> [!WARNING]
 > Consider using asdf or something versioning for local development. Or seek for alternatives
 
 ## With Apache
 
-TODO: Should separate this apache and php
+> [!WARNING]
+> Should separate this Apache and PHP
 
 ```bash
 sudo apt update
